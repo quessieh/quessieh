@@ -1,5 +1,5 @@
 #  Hi, I'm Quessie!
-👋 I’m a recent UNC Chapel Hill graduate with a degree in Management and Society.<br><br>I’m sharing my journey as I build transferable skills in project management, data analysis, communication, and process improvement — while exploring different interests across business, tech, and customer experience.<br><br>Currently learning more about Customer Relationship Management (CRM) and how technology can help improve customer journeys and team collaboration.<br><br>This space is where I document my learning and showcase hands-on projects as I grow.
+👋 I’m a recent UNC Chapel Hill graduate with a background in management, urban systems, and geospatial analysis.<br><br>I’m building transferable skills in project coordination, data analysis, communication, and operational planning while exploring work at the intersection of environmental sustainability, infrastructure, utilities, and community development.<br><br>Currently learning more about project management, spatial analysis, and sustainability-focused planning and decision-making.<br><br>This space is where I document my learning and showcase hands-on projects related to sustainability, urban planning, infrastructure, and data-driven problem solving as I continue to grow.
 
 
 # Tech Stack:
